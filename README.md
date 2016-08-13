@@ -1,9 +1,9 @@
 # scapy_pdfdump
-This is a simple guide how to use scapy to read capture file and visualize the data and dump in pdf document format
-The first thing to do
-. Install Python 3 via package
-. then, install scapy, follow the instruction here https://thepacketgeek.com/scapy-p-02-installing-python-and-scapy/
-. Before we begin you need to install *latex editor* like gummi. Type in your console    
+This is a simple guide how to use scapy to read capture file and visualize the data and dump in pdf document format.
+.The first thing to do
+.Install Python 3 via package
+.then, install scapy, follow the instruction here https://thepacketgeek.com/scapy-p-02-installing-python-and-scapy/
+.Before we begin you need to install *latex editor* like gummi. Type in your console    
 ```
 # apt-get install gummi
 ```
